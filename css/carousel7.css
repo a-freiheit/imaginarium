@@ -54,15 +54,15 @@
 .item-1 {
     z-index: 2;
     opacity: 1;
-  background:url('../inner_img7/k1.jpg');
+  background:url('https://i.imgur.com/aCYsQ65.jpg');
   background-size: cover;
   }
 .item-2{
-  background:url('../inner_img7/k2.jpg');
+  background:url('https://i.imgur.com/GjsWIpC.jpg');
    background-size:cover;
 }
 .item-3{
-  background:url('../inner_img7/k3.jpg');
+  background:url('https://i.imgur.com/Sr2NwU5.jpg');
    background-size:cover;
 }
 
