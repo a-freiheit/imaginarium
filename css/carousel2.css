@@ -55,11 +55,11 @@
 .item-1 {
     z-index: 2;
     opacity: 1;
-  background:url('/inner_img2/iris1.jpg');
+  background:url('https://i.imgur.com/PcK7mCM.jpg');
   background-size: cover;
   }
 .item-2{
-  background:url('../inner_img2/iris2.jpg');
+  background:url('https://i.imgur.com/j8kez0k.jpg');
    background-size:cover;
 }
 .item-3{
