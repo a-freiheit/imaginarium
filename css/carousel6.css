@@ -55,25 +55,25 @@
 .item-1 {
     z-index: 2;
     opacity: 1;
-  background:url('../inner_img6/preraph1.jpg');
+  background:url('https://i.imgur.com/r1PUlcg.jpg');
   background-size: cover;
   }
 .item-2{
-  background:url('../inner_img6/preraph2.jpg');
+  background:url('https://i.imgur.com/m8Ms28h.jpg');
    background-size:cover;
 }
 .item-3{
-  background:url('../inner_img6/preraph3.jpg');
+  background:url('https://i.imgur.com/a7o1Ary.jpg');
    background-size:cover;
 }
 
 .item-4{
-  background:url('../inner_img6/preraph4.jpg');
+  background:url('https://i.imgur.com/RwyajKm.jpg');
    background-size:cover;
 }
 
 .item-5{
-  background:url('../inner_img6/preraph5.jpg');
+  background:url('https://i.imgur.com/qN7zsQm.jpg');
    background-size:cover;
 }
 
